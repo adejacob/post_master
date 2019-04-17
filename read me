@@ -1,0 +1,11 @@
+SharePost Africa
+
+
+This is a Simple social network built to share information about what is happening around the Globe whis is built using OOP and MVC framework
+
+
+### Installation
+
+Create database or import from _sql/slimapp.sql
+
+Edit db/config params
